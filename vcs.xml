@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="ddok2" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-n.nuritelecom.com" />
+          <option name="userName" value="syna" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
