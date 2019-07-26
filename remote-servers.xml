@@ -5,5 +5,10 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker AWS" type="docker">
+      <configuration>
+        <option name="apiUrl" value="108.128.25.214" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
