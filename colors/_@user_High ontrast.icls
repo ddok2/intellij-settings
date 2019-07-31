@@ -3,7 +3,7 @@
     <property name="created">2019-06-20T09:59:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-20T10:02:42</property>
+    <property name="modified">2019-07-31T09:43:45</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <colors>
@@ -41,7 +41,6 @@
     <option name="MODIFIED_LINES_COLOR" value="1aabff" />
     <option name="NOTIFICATION_BACKGROUND" value="80" />
     <option name="QUESTION_HINT" value="5380" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="383838" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
     <option name="RIGHT_MARGIN_COLOR" value="808080" />
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
@@ -66,7 +65,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -542,6 +541,11 @@
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="4eadc6" />
+      </value>
+    </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
