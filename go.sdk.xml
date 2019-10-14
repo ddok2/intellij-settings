@@ -5,6 +5,7 @@
         <option value="" />
         <option value="/usr/local/Cellar/go/1.12.5/libexec" />
         <option value="/usr/local/go" />
+        <option value="/usr/local/var/homebrew/linked/go/libexec" />
       </set>
     </sdk-path>
   </component>
