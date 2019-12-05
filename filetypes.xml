@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="go_build_TxAgent_" type="PLAIN_TEXT" />
       <mapping ext="block" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
