@@ -1,8 +1,9 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker AWS" type="docker">
+    <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://15.164.85.57:4000" />
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
       </configuration>
     </remote-server>
   </component>
