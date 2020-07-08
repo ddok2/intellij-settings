@@ -7,6 +7,7 @@
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="blockfile_000000" type="PLAIN_TEXT" />
       <mapping ext="block" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
