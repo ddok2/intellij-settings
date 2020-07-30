@@ -3,7 +3,7 @@
     <property name="created">2020-07-30T08:19:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-07-30T08:32:11</property>
+    <property name="modified">2020-07-30T09:39:43</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -540,6 +540,11 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="69beff" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
