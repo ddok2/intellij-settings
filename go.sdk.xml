@@ -18,6 +18,7 @@
         <option value="file:///usr/local/Cellar/go/1.15.2/libexec" />
         <option value="file:///usr/local/Cellar/go/1.15.5/libexec" />
         <option value="file:///usr/local/Cellar/go/1.15.6/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.16.2/libexec" />
         <option value="file:///usr/local/go" />
         <option value="file:///usr/local/var/homebrew/linked/go/libexec" />
       </set>
