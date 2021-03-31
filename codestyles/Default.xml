@@ -21,9 +21,6 @@
   <JSON>
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
-  <JetCodeStyleSettings>
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
-  </JetCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -88,8 +85,5 @@
   </codeStyleSettings>
   <codeStyleSettings language="go">
     <option name="RIGHT_MARGIN" value="120" />
-  </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
