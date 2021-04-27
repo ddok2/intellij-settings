@@ -10,9 +10,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.log</mask>
-    <mask>*.ts</mask>
     <mask>*.go</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
     <mask>*</mask>
   </component>
 </application>
