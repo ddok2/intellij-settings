@@ -1,0 +1,45 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="mas-brewfile" type="AUTO_DETECTED" />
+      <mapping pattern=".lintstagedrc" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mwb" type="Native" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".eslint" type="PLAIN_TEXT" />
+      <mapping pattern="go_build_TxAgent_" type="PLAIN_TEXT" />
+      <mapping pattern="blockfile_000000" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="block" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>
