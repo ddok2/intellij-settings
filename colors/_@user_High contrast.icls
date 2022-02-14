@@ -4,7 +4,7 @@
     <property name="created">2020-07-30T08:19:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2022-02-08T10:35:16</property>
+    <property name="modified">2022-02-14T18:06:21</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
@@ -19,19 +19,28 @@
     <option name="DELETED_LINES_COLOR" value="ffa14f" />
     <option name="DOCUMENTATION_COLOR" value="281a33" />
     <option name="ERROR_HINT" value="800002" />
-    <option name="FILESTATUS_ADDED" value="62cc47" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="62cc47" />
-    <option name="FILESTATUS_DELETED" value="ed864a" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ed864a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a9b837" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6666" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6666" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6666" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="62cc47" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="e0861f" />
     <option name="FILESTATUS_MERGED" value="ed94ff" />
-    <option name="FILESTATUS_MODIFIED" value="4ff0ff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4ff0ff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4ff0ff" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="4ff0ff" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="62cc47" />
     <option name="FILESTATUS_changelistConflict" value="ff6666" />
     <option name="FILESTATUS_modifiedOutside" value="4ff0ff" />
