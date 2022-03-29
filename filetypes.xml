@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="mas-brewfile" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
+      <mapping pattern="MANIFEST-000000" type="AUTO_DETECTED" />
       <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -15,6 +16,7 @@
       <mapping pattern="blockfile_000000" type="PLAIN_TEXT" />
       <mapping ext="ldb" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="block" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
