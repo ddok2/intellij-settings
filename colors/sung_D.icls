@@ -1,10 +1,10 @@
-<scheme name="winDy" version="142" parent_scheme="Darcula">
+<scheme name="sung:D" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-09-23T15:52:33</property>
+    <property name="created">2022-05-03T11:28:25</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2022-02-14T18:30:52</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-05-03T11:29:23</property>
     <property name="originalScheme">winDy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
