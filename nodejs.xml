@@ -12,5 +12,8 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.19.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Development/99.test/slack-status-sung/node_modules/.bin/phantomjs">
+      <version-cache version="2.1.1" last-modified="1652235335526" />
+    </local-interpreter>
   </component>
 </application>
