@@ -71,6 +71,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="org.jetbrains.plugins.go">
           <value>
             <PluginData />
@@ -106,7 +111,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
