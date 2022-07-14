@@ -1,8 +1,4 @@
 <code_scheme name="Default" version="173">
-  <GoCodeStyleSettings>
-    <option name="GROUP_STDLIB_IMPORTS" value="true" />
-    <option name="LOCAL_PACKAGE_PREFIXES" />
-  </GoCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
