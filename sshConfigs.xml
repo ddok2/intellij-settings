@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="192.168.64.17" id="2146a711-560d-4648-a1af-cdc62ed5d80e" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="129.254.184.196" id="7606a2fd-066b-409a-a783-8ab807f89582" port="122" nameFormat="DESCRIPTIVE" username="bfs" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="129.254.184.196" id="2c445e6f-e163-4f83-9050-fd483b54c3eb" port="122" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="129.254.184.196" id="3c3b5d7d-43ea-4ad6-b81d-8728fcc874a5" port="122" nameFormat="DESCRIPTIVE" username="bfs" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
