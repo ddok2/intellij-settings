@@ -2,28 +2,6 @@
   <component name="DiffApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="ddok2" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git-n.nuritelecom.com" />
-          <option name="userName" value="syna" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://172.16.55.140" />
-          <option name="userName" value="root" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://122.199.180.155:8111" />
-          <option name="userName" value="syna" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
