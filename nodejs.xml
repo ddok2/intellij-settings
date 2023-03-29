@@ -1,19 +1,19 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.2/bin/node">
-      <version-cache version="16.14.2" last-modified="1647557251000" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.14.0/bin/node">
+      <version-cache version="18.14.0" last-modified="1675286289000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v18.13.0/bin/node">
+      <version-cache version="18.13.0" last-modified="1672958405000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.19.0/bin/node">
+      <version-cache version="16.19.0" last-modified="1670915986000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.18.0/bin/node">
+      <version-cache version="16.18.0" last-modified="1665576260000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.19.1/bin/node">
-      <version-cache version="14.19.1" last-modified="1647533892000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.19.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/Development/99.test/slack-status-sung/node_modules/.bin/phantomjs">
-      <version-cache version="2.1.1" last-modified="1652235335526" />
+      <version-cache version="16.14.0" last-modified="1644324317000" />
     </local-interpreter>
   </component>
 </application>
