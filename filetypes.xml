@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern="mas-brewfile" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000000" type="AUTO_DETECTED" />
@@ -44,6 +43,7 @@
       <removed_mapping ext="trg" approved="true" type="SQL" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="vw" approved="true" type="SQL" />
+      <removed_mapping pattern=".env" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="pkg" type="DBN-PSQL" />
