@@ -17,6 +17,7 @@
       <mapping pattern="blockfile_000000" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="block" type="PLAIN_TEXT" />
