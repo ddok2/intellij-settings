@@ -1,5 +1,18 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="f92a0fa7-1a98-47cd-b5cb-78ff67e6f4f3" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="64bac2a8-9558-4b8a-a0e0-a00000000013" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Gerry Darcula" scheme="_@user_Gerry Darcula" />
+      <laf-to-scheme laf="Gerry Dark" scheme="_@user_Gerry Dark" />
+      <laf-to-scheme laf="Gerry Oceanic" scheme="_@user_Gerry Oceanic" />
+      <laf-to-scheme laf="Gerry Storm" scheme="_@user_Gerry Storm" />
+      <laf-to-scheme laf="Gerry Violet" scheme="_@user_Gerry Violet" />
+      <laf-to-scheme laf="Gerry* Light" scheme="_@user_Gerry Light" />
+      <laf-to-scheme laf="Legacy Gerry Darcula" scheme="_@user_Gerry Darcula" />
+      <laf-to-scheme laf="Legacy Gerry Dark" scheme="_@user_Gerry Dark" />
+      <laf-to-scheme laf="Legacy Gerry Violet" scheme="_@user_Gerry Violet" />
+      <laf-to-scheme laf="Legacy Gerry* Light" scheme="_@user_Gerry Light" />
+      <laf-to-scheme laf="One Dark" scheme="_@user_One Dark" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
