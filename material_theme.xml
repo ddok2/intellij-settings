@@ -1,8 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="accentMode" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="indicatorStyle" value="None" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="6b3762c5:17ef77a3d2b:-8000" />
     <option name="version" value="8.10.0" />
+    <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
